@@ -18,7 +18,7 @@ const Header = () => {
             Let’s Build Something amazing Together
           </h1>
           <p>
-          At Code Base, we build digital experiences that connect your brand with your audience. Our custom designs and precision-driven development turn ideas into engaging, high-performing websites—so your business not only stands out but grows.
+          At Code Baze, we build digital experiences that connect your brand with your audience. Our custom designs and precision-driven development turn ideas into engaging, high-performing websites—so your business not only stands out but grows.
           </p>
           <div className="gpt3__header-content__input">
         
